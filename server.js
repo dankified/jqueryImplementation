@@ -4,12 +4,9 @@ const axios = require("axios");
 
 const app = express();
 
-const corsExclude = function(req, res, next) {
-  res.setHeader("Allow-Control-Allow-Origin", "*");
-  next();
-};
+app.use(express.static(`${__dirname}/public`));
 
-app.use(corsExclude);
+app.get('/', (req, res) => res.end());
 
 app.get("/users", async (req, res) => {
   try {
