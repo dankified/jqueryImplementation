@@ -30,9 +30,13 @@
   top: 2%;
 }
 
-#content-theme button {
-  border-radius: 25px;
+.special {
   width: 10rem;
+  height: 10rem;
+  border-radius: 25px;
+}
+
+#content-theme button {
 }
 
 #import-people {
