@@ -32,7 +32,7 @@
 
 .special {
   width: 10rem;
-  height: 10rem;
+  height: 2rem;
   border-radius: 25px;
 }
 
@@ -46,4 +46,18 @@
   width: 10%;
   height: 5%;
   border-radius: 25px;
+}
+
+#people-list {
+	position: absolute;
+	display: block;
+	top: 20%;
+}
+
+.person-li {
+	width: 20%;
+	margin-left: 1%;
+	height: 20px;
+	display: inline-block;
+	background-color: aliceblue;
 }
