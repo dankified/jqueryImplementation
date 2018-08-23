@@ -2,9 +2,9 @@
 
 # Set up
 
- 1. Create a new directory in your wyncode folder and name it jQueryImplementation.
- 2. Move into the newly created folder.
- 3. Clone the jQuery implementation repo from github
+ 1. Change directory into your ```wyncode```.
+ 2. Clone the jQuery implementation repo from github
+ 3. Change directory into the newly cloned repo
  4. In your command line run **npm install** or **yarn install**
  5. Start the **server.js** file by running **node server.js**
 
