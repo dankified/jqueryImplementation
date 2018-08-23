@@ -7,6 +7,7 @@
  3. Change directory into the newly cloned repo
  4. In your command line run **npm install** or **yarn install**
  5. Start the **server.js** file by running **node server.js**
+ 6. In your browser go to ```localhost:5000```
 
 # Instructions
 
