@@ -1,13 +1,12 @@
 # jQuery Implementation Block
 
 # Set up
-
- 1. Change directory into your ```wyncode/implementation-lectures/jqueryImplementation```.
- 2. git Pull from your **upstream** repository.
- 2. In your command line run **npm install** or **yarn install**
- 3. Start the **server.js** file by running **node server.js**
- 4. In your browser go to ```localhost:5000```
- 5. You will be writing your code in ```public/main.js```
+ 1. Clone the directory at https://github.com/dankified/jqueryImplementation
+ 2. Change directory into **jqueryImplementation**
+ 3. In your command line run **npm install** or **yarn install**
+ 4. Start the **server.js** file by running **node server.js**
+ 5. In your browser go to ```localhost:5000```
+ 6. You will be writing your code in ```public/main.js```
 
 # Instructions
 
